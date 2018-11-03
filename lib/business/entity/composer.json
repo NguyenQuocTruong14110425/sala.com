@@ -1,0 +1,17 @@
+{
+    "name": "business/entity",
+    "description": "create entity for business",
+    "type": "library",
+    "license": "1.0.0",
+    "authors": [
+        {
+            "name": "truong",
+            "email": "truong160196@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.1.3",
+        "laravel": ">5.*"
+    }
+}
